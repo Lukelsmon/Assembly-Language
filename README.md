@@ -54,6 +54,19 @@ O Assembly diferentes de outras linguagens de programação, utiliza mais da el�
 <br><br>
 
 <details>
-<summary><b>Assembler
+<summary><b>Assembler 🔧</b></summary>
+
+<br>
+
+- Assembler é um programa que traduz códigos dos Assembly para código de máquina (binário ou hexadecimal)
+> Mnemônicos por exemplo, são convertidos em instruções puras de binários
+>
+> Movimentação de dados - copiar ou transferir dados entre registradores, posições de memória ou valores: MOV (mover / copiar), PUSH (colocar dado na pilha), POP (retirar dado da pilha), LEA (carregar endereço efetivo)
+>
+> Aritméticos - Executam operações matemáticas básicas: ADD (somar), SUB (subtrair), MUL(multiplicar), DIV(dividir), INC(incrementar em 1), DEC (decrementar em 1).
+>
+> Lógicos e Bit a Bit - Realizam operações booleanas e manipulação de bits: AND (e lógico), OR (ou lógico), XOR (ou exclusivo - frequentemente usado para zerar registradores), NOT (negação).
+>
+> Desvio de Fluxo (Controle) - Alteram a ordem de execução das instruções, permitindo saltos condicionais e incondicionais: JMP (salto incondicional), JE (saltar se igual), JNE (saltar se diferente), CALL (chamar função / sub-rotina)
 
 
