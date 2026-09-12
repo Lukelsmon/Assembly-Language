@@ -17,5 +17,10 @@
 
 </div>
 
-<p>
+<p> É uma linguagem de programação de baixo nível que utiliza símbolos e mnemônicos pra representar diretamente as instruções do código de máquina de um processador.</p>
+
+> Mnemônicos - Técnica utilizada para facilitar a memorização de informações complexas, tais como: listas, fórmulas ou sequências. 
+
+
+
 
