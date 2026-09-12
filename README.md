@@ -21,6 +21,32 @@
 
 > Mnemônicos - Técnica utilizada para facilitar a memorização de informações complexas, tais como: listas, fórmulas ou sequências. 
 
+---
 
+<br>
+
+### Conceitos importantes:
+
+<details>
+<summary><b>Como funciona o Assembly?</b></summary>
+
+<br>
+
+<img src="Assembly.png" width="40px" valign="middle">
+O Assembly diferentes de outras linguagens de programação, utiliza mais da elétrica e binários.
+
+<br>
+
+> Computador - A máquina de processar dados
+>
+> Instruções - Algo que o processador consiga realizar
+>
+> Programação Baixo Nível - Escrever instruções diretamente pelo processador ou hardware
+>
+> Em Assembly, níveis de tensão representam valores
+>
+> E sua programação é representado em valor binário (0 - Desligado ou False | 1 - Ligado ou True)
+
+</details>
 
 
