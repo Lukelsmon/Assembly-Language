@@ -67,6 +67,11 @@ O Assembly diferentes de outras linguagens de programação, utiliza mais da el�
 >
 > Lógicos e Bit a Bit - Realizam operações booleanas e manipulação de bits: AND (e lógico), OR (ou lógico), XOR (ou exclusivo - frequentemente usado para zerar registradores), NOT (negação).
 >
-> Desvio de Fluxo (Controle) - Alteram a ordem de execução das instruções, permitindo saltos condicionais e incondicionais: JMP (salto incondicional), JE (saltar se igual), JNE (saltar se diferente), CALL (chamar função / sub-rotina)
-
+> Desvio de Fluxo (Controle) - Alteram a ordem de execução das instruções, permitindo saltos condicionais e incondicionais: JMP (salto incondicional), JE (saltar se igual), JNE (saltar se diferente), CALL (chamar função / sub-rotina).
+>
+> Comparação e Teste - Avaliam valores sem alterar os dados principais, modificando apenas os registradores de estado (flags): CMP (comparar dois operandos), TEST (teste lógico bit a bit).
+>
+> Interrupções e Sistema - Controlam chamadas de sistema ou tratamento de hardware: INT (chamar interrupção), IRET (retorno de interrupção).
+>
+> <img src="https://media1.tenor.com/m/KeZv3aJVPQQAAAAd/brimstone-i%27m-old.gif" width="100px">
 
