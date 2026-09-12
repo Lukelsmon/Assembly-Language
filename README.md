@@ -46,7 +46,14 @@ O Assembly diferentes de outras linguagens de programação, utiliza mais da el�
 > Em Assembly, níveis de tensão representam valores
 >
 > E sua programação é representado em valor binário (0 - Desligado ou False | 1 - Ligado ou True)
+>
+> <img src="https://media1.tenor.com/m/mzqInhPVvIIAAAAC/delta-rune-gerson.gif" width="100px">
 
 </details>
+
+<br><br>
+
+<details>
+<summary><b>Assembler
 
 
